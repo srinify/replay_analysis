@@ -1,6 +1,6 @@
 ## Use Python and Computer Vision To Help You Improve Your Video Game Skills
 
-Fornite, PUBG, League of Legends, Overwatch, Counter Strike, Call of Duty. 
+### Fornite, PUBG, League of Legends, Overwatch, Counter Strike, Call of Duty. 
 
 You may have heard of or played these immensely popular multiplayer games. While all of these games are well known for their popularity, they're also known for having rich, competitive scenes. The League of Legends World Championship from late 2019 brought together over 20 different international teams to compete for a million dollar prize pool.
 
