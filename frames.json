@@ -1,0 +1,16 @@
+{
+	"pipeline":{
+		"name": "frames"
+	},
+	"description": "A pipeline that splits a video file into frames as image files.",
+	"transform": {
+		"cmd": ["python3", "/frames.py"],
+		"image": "srinify/video-processing"
+	},
+	"input":{
+		"pfs": {
+			"repo": "videos",
+			"glob": "/*"
+		}
+	}
+}
